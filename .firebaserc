@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "robotic-weft-240901": {
+      "hosting": {
+        "tic-tac-toe": [
+          "robotic-weft-240901"
+        ]
+      }
+    }
+  }
+}
